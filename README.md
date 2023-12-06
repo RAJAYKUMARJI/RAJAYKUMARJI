@@ -1,4 +1,4 @@
-![logo](https://github.com/AkashKumarParida/AkashKumarParida/blob/main/Thank.png)
+
 <h1 align="center">Hi 👋, I'm AJAY KUMAR</h1>
 <h3 align="center">A passionate Data Analytics Student</h3>
 
